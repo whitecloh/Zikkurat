@@ -1,0 +1,18 @@
+{
+    "name": "Game.Plugins.UnitPool.Default",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0974e8c29869ed94b86f5c259c4f15b1",
+        "GUID:f3cbd6db52b2e0b4c8eca4d52a60094a",
+        "GUID:347032dd09a0ba44e9649e7607932ac9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

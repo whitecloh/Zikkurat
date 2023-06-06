@@ -1,0 +1,16 @@
+{
+    "name": "Game.Tweens",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bec599e266f1b744fa1ffc431780c5b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Game.UnitComponents",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b833b66e4116b0c438ac5cbd764e49f6",
+        "GUID:0c17e5ac546a3df4b898e834dcf58a38",
+        "GUID:f3cbd6db52b2e0b4c8eca4d52a60094a",
+        "GUID:80d95f87f9be8394996377c29ddc4d80",
+        "GUID:0974e8c29869ed94b86f5c259c4f15b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

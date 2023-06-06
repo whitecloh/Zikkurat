@@ -1,0 +1,16 @@
+{
+    "name": "Developed.Tweener",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0c17e5ac546a3df4b898e834dcf58a38"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Game.UnitSpawners",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f3cbd6db52b2e0b4c8eca4d52a60094a",
+        "GUID:80d95f87f9be8394996377c29ddc4d80",
+        "GUID:0974e8c29869ed94b86f5c259c4f15b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

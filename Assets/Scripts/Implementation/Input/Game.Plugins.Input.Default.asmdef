@@ -1,0 +1,18 @@
+{
+    "name": "Game.Plugins.Input.Default",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c214c7ccc4a4bb44cbd7fee6f85a9c47",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:89ff07ea9a8308b489dee5d5b4547eb1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

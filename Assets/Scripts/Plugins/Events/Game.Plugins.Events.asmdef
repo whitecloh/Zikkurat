@@ -1,0 +1,16 @@
+{
+    "name": "Game.Plugins.Events",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f3cbd6db52b2e0b4c8eca4d52a60094a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
